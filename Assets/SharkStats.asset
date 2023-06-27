@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa6f3a007cc845e5864a765db154800d, type: 3}
   m_Name: SharkStats
   m_EditorClassIdentifier: 
-  love: 100
-  hunger: 0
-  thirst: 0
-  sleepiness: 40
+  love: 0
+  hunger: 100
+  thirst: 75
+  sleepiness: 5
   healthPoints: 100
