@@ -13,6 +13,13 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 
+    public void TryAgain()
+    {
+        Debug.Log("yeet");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2);
+        Debug.Log("yeet");
+    }
+
     public void QuitGame()
     {
         Debug.Log("User has quit the game");

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SharkStats
   m_EditorClassIdentifier: 
   love: 0
-  hunger: 100
-  thirst: 75
-  sleepiness: 5
-  healthPoints: 100
+  hunger: 114
+  thirst: 114
+  sleepiness: 14
+  healthPoints: 72
