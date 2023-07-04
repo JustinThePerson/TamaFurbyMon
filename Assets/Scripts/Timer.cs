@@ -10,7 +10,7 @@ public class Timer : MonoBehaviour
     public int timer;
     void Update()
     {
-        display.SetText("Timer:{0}", timer);
+        display.SetText("Time Alive: {0}", timer);
     }
 
     private void Start()
